@@ -1,0 +1,6 @@
+print ("Single Ladies by Beyonce")
+print ("All the pringle ladies (All the pringle ladies)")
+print ("All the pringle ladies (All the pringle ladies)")
+print ("All the pringle ladies (All the pringle ladies)")
+print ("All the pringle ladies")
+print("Now put your hands up")
